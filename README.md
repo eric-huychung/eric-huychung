@@ -23,9 +23,9 @@
 
 <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320" />
 
-Solarized dark             |  Solarized Ocean
+DPZ Club Website             | Light Weight App
 :-------------------------:|:-------------------------:
-![width="180" height="320"](https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif)  |  ![width="180" height="320"](https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif)
+![](https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif | width="180" height="320")  |  ![](https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif | width="180" height="320")
 
 
 
