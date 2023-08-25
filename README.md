@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Eric Chung</h1>
-<h3 align="center">A Third Year Student at University of Washington Paul G. Allen School of Computer Science & Engineering</h3>
-
 ![](https://github.com/eric-huychung/eric-huychung/blob/main/GitHubBanner.png)
+
+## Eric Chung
+
+A Third Year Student at University of Washington Paul G. Allen School of Computer Science & Engineering.
 
 - 📫 How to reach me **eric.huychung@gmail.com**
 
