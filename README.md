@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Chung</h1>
-<h3 align="center">A Junior Computer Science Student at University of Washington</h3>
+<h3 align="center">A Third Year Student at University of Washington Paul G. Allen School of Computer Science</h3>
 
 ![](https://github.com/eric-huychung/eric-huychung/blob/main/GitHubBanner.png)
 
