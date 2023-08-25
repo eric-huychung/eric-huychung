@@ -25,7 +25,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif)  |  ![](https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif)
+![width="180" height="320"](https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif)  |  ![width="180" height="320"](https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif)
 
 
 
