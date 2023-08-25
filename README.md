@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Chung</h1>
 <h3 align="center">A Junior Computer Science Student at University of Washington</h3>
 
-!(https://github.com/eric-huychung/eric-huychung/blob/main/GitHubBanner.png)
+![](https://github.com/eric-huychung/eric-huychung/blob/main/GitHubBanner.png)
 
 - 📫 How to reach me **eric.huychung@gmail.com**
 
