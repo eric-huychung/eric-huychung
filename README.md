@@ -25,7 +25,7 @@
 
 DPZ Club Website             | Light Weight App
 :-------------------------:|:-------------------------:
-<img src="https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320") />  |  ![](https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif | width="180" height="320")
+<img src="https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320") />  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320" />
 
 
 
