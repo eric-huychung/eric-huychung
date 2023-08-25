@@ -17,6 +17,7 @@
 
 ![dpz](https://github.com/eric-huychung/eric-huychung/assets/97992842/5f109041-bda2-4092-a464-a5e5d78ba517)
 
+![lightweight](https://github.com/eric-huychung/eric-huychung/assets/97992842/991647d3-e015-4ab7-89ce-ea2545b8d7d4)
 
 
 
