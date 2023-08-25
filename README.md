@@ -19,11 +19,7 @@
 
 ## Projects
 
-<img src="https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320"/>
-
-<img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>
-
-DPZ Club Website             | Light Weight App             | Light Weight App
+DPZ Club Website             | Light Weight App             | Meme App
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src= "https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>
 
