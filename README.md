@@ -19,7 +19,7 @@
 
 ## Projects
 
-<img src="https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320"/>
+<p><img src="https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320"/>Hhelooooooooooo</p>
 
 <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320" />
 
