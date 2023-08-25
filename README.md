@@ -19,9 +19,9 @@
 
 ## Projects
 
-<img src="https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="200" height="500"/>
+<img src="https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="200" height="300"/>
 
-<img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="300" height="500" />
+<img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="200" height="300" />
 
 
 
