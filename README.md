@@ -24,7 +24,7 @@ Third Year Student at University of Washington Paul G. Allen School of Computer 
 
 DPZ Club Website             | Light Weight App             | Meme App
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src= "https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>
+<img href="https://github.com/eric-huychung/dpz-club-website" src= "https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>
 
 
 
