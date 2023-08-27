@@ -1,4 +1,4 @@
-![](https://github.com/eric-huychung/eric-huychung/blob/main/GitHubBanner.png)
+![](https://github.com/eric-huychung/eric-huychung/blob/main/GitHub%20Banner.png)
 
 ## Eric Chung
 
