@@ -5,7 +5,8 @@
 Third year student at the University of Washington Paul G. Allen School of Computer Science & Engineering. My specialization is in web & mobile application development. I'm actively seeking summer 2024 internship opportunities. Feel free to reach out and connect with me!
 
 📫 How to reach me **eric.huychung@gmail.com**
-✍️
+
+✍️ <a href="">My Resume</a>
 
 ## Contacts
 
