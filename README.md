@@ -28,10 +28,6 @@ Front End:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/eric-huychung/eric-huychung/assets/97992842/422eae0b-ae30-4484-acfb-9407f8aebb86" alt="nextjs" width="40" height="40"/> </a>
-  
-
-  ![image](https://github.com/eric-huychung/eric-huychung/assets/97992842/422eae0b-ae30-4484-acfb-9407f8aebb86)
-
 </p>
 
 Back End:
