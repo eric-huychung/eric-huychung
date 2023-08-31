@@ -53,7 +53,7 @@ Design:
 
 ## Projects
 
-<a href="https://github.com/eric-huychung/dpz-club-website" target="_blank">DPZ Club Website</a>             | <a href="https://github.com/eric-huychung/light-weight" target="_blank">Light Weight App</a>             | light-weight-media
+<a href="https://github.com/eric-huychung/dpz-club-website" target="_blank">DPZ Club Website</a>             | <a href="https://github.com/eric-huychung/light-weight" target="_blank">Light Weight</a>             | <a href="https://github.com/eric-huychung/light-weight-media" target="_blank">Light Weight Media</a>
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src= "https://github.com/eric-huychung/eric-huychung/blob/main/dpz.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/lightweight.gif" width="180" height="320"/>  |  <img src="https://github.com/eric-huychung/eric-huychung/blob/main/light-weight-media.gif" width="180" height="320"/>
 
