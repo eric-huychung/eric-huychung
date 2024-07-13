@@ -2,7 +2,7 @@
 
 ## Eric Chung
 
-Third year student at the University of Washington Paul G. Allen School of Computer Science & Engineering. My specialization is in web & mobile application development. I'm actively seeking summer 2024 internship opportunities. Feel free to reach out and connect with me!
+Rising senior at UW Paul G. Allen School of Computer Science and Engineering. 3+ years of experience in web application and mobile development. Seeking opportunities to pursue my passion in computer science and learn more about its applications. Feel free to reach out and connect with me!
 
 ✍️ <a href="https://github.com/eric-huychung/eric-huychung/blob/main/resume.pdf">My Resume</a>
 
