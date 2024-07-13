@@ -4,7 +4,7 @@
 
 Rising senior at UW Paul G. Allen School of Computer Science and Engineering. 3+ years of experience in web application and mobile development. Seeking opportunities to pursue my passion in computer science and learn more about its applications. Feel free to reach out and connect with me!
 
-✍️ <a href="https://github.com/eric-huychung/eric-huychung/blob/main/resume.pdf">My Resume</a>
+<!--✍️ <a href="https://github.com/eric-huychung/eric-huychung/blob/main/resume.pdf">My Resume</a>-->
 
 📫 How to reach me **eric.huychung@gmail.com**
 
