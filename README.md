@@ -2,7 +2,7 @@
 
 ## Eric Chung
 
-Rising senior at UW Paul G. Allen School of Computer Science and Engineering. 3+ years of experience in web application and mobile development. Seeking opportunities to pursue my passion in computer science and learn more about its applications. Feel free to reach out and connect with me!
+Senior at the UW Paul G. Allen School of Computer Science & Engineering, graduating in June 2025. I have experience in software engineering, focusing on backend, DevOps, and cloud solutions across web and mobile applications. Skilled in CI/CD automation, data processing, and cloud platforms like Google Cloud and AWS. I’m passionate about leveraging technology to solve real-world challenges and am open to exploring part-time or full-time software engineering roles. Feel free to reach out—I’d love to connect!
 
 <!--✍️ <a href="https://github.com/eric-huychung/eric-huychung/blob/main/resume.pdf">My Resume</a>-->
 
