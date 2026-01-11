@@ -1,6 +1,6 @@
 ## Eric Chung
 
-A new graduate from the **Paul G. Allen School of Computer Science & Engineering** at the University of Washington. I have a passion for building scalable solutions and a proven track record in backend, DevOps, and cloud technologies. As a founder, I'm adept at taking full ownership of projects to deliver high-impact results. I'm open to full-time Software Engineering roles.
+2025 new grad software engineer in Seattle. I have experience working with startups and building products as a founder. Feel free to reach out—I’d love to connect! I'm open to full-time Software Engineering roles.
 
 ---
 
